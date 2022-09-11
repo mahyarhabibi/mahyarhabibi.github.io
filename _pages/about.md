@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Mahyar Habibi's home on the web!
+I am a third-year Ph.D. student in Economics at Bocconi University in Milan. I am interested in applied micrroeconomics, the economics of artificial intelligence, and political economics. 
