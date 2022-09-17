@@ -14,7 +14,7 @@ description              : &description "PhD Stundent in Economics"
 url                      : https://mahyarhabibi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahyarhabibi/mahyarhabibi.github.io"
-teaser                   :  "IMG_3201.jpg"
+teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mahyar Habibi"
-  avatar           : "profile.png"
+  avatar           : "IMG_3201.jpg"
   bio              : "PhD Student in Economics"
   location         : "Milan, Italy"
   employer         : "Bocconi"
