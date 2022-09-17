@@ -12,6 +12,6 @@ Using rich data on mainstream movies released between 1990-2021, I study gender 
 [[_Code_]](https://github.com/mahyarhabibi/GenderGaps_Hollywood/tree/main/Codes)
 
 ### [Closing the Gap: Consequences of Almost Free Health Insurance on Healthcare Utilization and Infant Mortality in Iran.](https://drive.google.com/file/d/17Plt5IDuel9ZmX93BjxcZJoDQ7z9Sd8g/view?usp=sharing)
-(With Mohammad Vesal and Farshad Fatemi)
+(With Mohammad Vesal and Farshad Fatemi) \
 __Abstract__
  In 2014, the Iranian government introduced Salamat Universal Insurance Program (SUIP), which offered almost free primary health insurance to every uninsured individual. Consequently, more than ten million individuals were given primary insurance by SUIP, and primary health insurance coverage rose by nearly 15 percentage points among the urban population. We assess the impact of SUIP on healthcare utilization and mortality of various age groups among the urban population. The results indicate that the introduction of SUIP has effectively improved outpatient healthcare utilization and reduced infant mortality. However, no discernible impact is found on the utilization of inpatient services and mortality of other age groups. We attribute these findings to the insufficient coverage of primary insurance in the inpatient sector and the extremeness of mortality as a health indicator for these age groups.
